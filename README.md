@@ -3,7 +3,7 @@ Até pra mostrar que sei mexer -um pouco- no GitHub hehe
 
 
 Payout BDD 
-Foi a entrega ada curta matéria de banco de dados, veio antes dos Payout v2 e Trabalho final Mercado POO, foi uma UC importante para ter noção e o mínimo conhecimento sobre BDD
+Foi a entrega da curta matéria de banco de dados, veio antes dos Payout v2 e Trabalho final Mercado POO, foi uma UC importante para ter noção e o mínimo conhecimento sobre BDD
 
 Payout v2
 Foi a primeira entrega de POO, não tinhamos conexão no banco e nem questões relacionadas ao POO, como as interfaces, polimorfismo e a conexão no banco, porém acredito que nessa acabei tendo mais liberdade para "brincar"
